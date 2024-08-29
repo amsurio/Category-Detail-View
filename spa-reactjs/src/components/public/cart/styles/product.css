@@ -1,0 +1,10 @@
+.my_shop {
+    float: left;
+    cursor: pointer;
+    color: blue;
+}
+
+.cart {
+    float: right;
+    cursor: pointer;
+}
